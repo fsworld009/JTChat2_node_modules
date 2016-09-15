@@ -16,3 +16,12 @@ fsevents/build/fse.target.mk
 fsevents/build/gyp-mac-tool
 fsevents/lib/binding/Release/node-v46-darwin-x64/fse.node
 fsevents/lib/binding/Release/node-v48-darwin-x64/fse.node
+webworker-threads/build/Makefile
+webworker-threads/build/Release/.deps/Release/WebWorkerThreads.node.d
+webworker-threads/build/Release/.deps/Release/obj.target/WebWorkerThreads/src/WebWorkerThreads.o.d
+webworker-threads/build/Release/WebWorkerThreads.node
+webworker-threads/build/Release/obj.target/WebWorkerThreads/src/WebWorkerThreads.o
+webworker-threads/build/WebWorkerThreads.target.mk
+webworker-threads/build/binding.Makefile
+webworker-threads/build/config.gypi
+webworker-threads/build/gyp-mac-tool
